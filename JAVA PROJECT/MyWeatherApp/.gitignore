@@ -1,0 +1,38 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven / Gradle
+/target/
+/build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NetBeans
+nbproject/private/
+
+# Temporary files
+*~
+*.swp
+
+# OneDrive and editor caches
+desktop.ini
